@@ -9,6 +9,7 @@
 
 <img width="50%" align="right" alt="Github" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" />
 
+```javascript
 const bruno = {
  workingOn: "Web Projects",
  learning: "JavaScript Stack",
@@ -16,7 +17,9 @@ const bruno = {
  lookingHelp: "JavaScript Web Projects",
  ask: "Anything, i love to talk and exchange experiences",
  funnyFact: "I'm initially graduated in Biochemistry",
- }
+ hobbies: [VideoGames, PlayBass$Guitar, Books]
+}
+ ```
 
 - 👨🏽‍💻 I’m currently working on Web Projects (coming soon...😅);
 - 🌱 I’m currently learning <strong>JavaScript Stack</strong>; 
