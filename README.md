@@ -7,14 +7,23 @@
 
 **Talking about Personal Stuffs:**
 
-<img width="45%" height="40%" align="right" alt="Github" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" />
+<img width="50%" align="right" alt="Github" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" />
+
+const bruno = {
+ workingOn: "Web Projects",
+ learning: "JavaScript Stack",
+ collaborateOnProjects: true,
+ lookingHelp: "JavaScript Web Projects",
+ ask: "Anything, i love to talk and exchange experiences",
+ funnyFact: "I'm initially graduated in Biochemistry",
+ }
 
 - 👨🏽‍💻 I’m currently working on Web Projects (coming soon...😅);
 - 🌱 I’m currently learning <strong>JavaScript Stack</strong>; 
 - 👯 I’m looking to collaborate on projects that i can be useful 😁;
-- 🤔 I’m looking for help on JavaScript on Web Development;
+- 🤔 I’m looking for help on <strong>JavaScript on Web Development</strong>;
 - 💬 Ask me about anything, I love to talk and exchange experiences;
-- ⚡️ Fun-Fact: I am initially graduated in Biochemistry 🧑🏽‍🔬;
+- ⚡️ Fun-Fact: I am initially graduated in <strong>Biochemistry</strong> 🧑🏽‍🔬;
 
 **Languages and tools of interest:**
 
