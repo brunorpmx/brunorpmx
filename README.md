@@ -5,7 +5,7 @@
 
 &nbsp;
 
-**Talking about Personal Stuffs:**
+**More about me...<img src="https://giphy.com/gifs/26n7b7PjSOZJwVCmY/html5" width="50">**
 
 <img width="50%" align="right" alt="Github" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" />
 
