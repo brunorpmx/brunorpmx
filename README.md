@@ -7,11 +7,11 @@
 
 **Talking about Personal Stuffs:**
 
-<img width="55%" align="right" alt="Github" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" />
+<img width="45%" height="40%" align="right" alt="Github" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" />
 
 - 👨🏽‍💻 I’m currently working on Web Projects (coming soon...😅);
-- 🌱 I’m currently learning JavaScript Stack; 
-- 👯 I’m looking to collaborate on ;
+- 🌱 I’m currently learning <strong>JavaScript Stack</strong>; 
+- 👯 I’m looking to collaborate on projects that i can be useful 😁;
 - 🤔 I’m looking for help on JavaScript on Web Development;
 - 💬 Ask me about anything, I love to talk and exchange experiences;
 - ⚡️ Fun-Fact: I am initially graduated in Biochemistry 🧑🏽‍🔬;
