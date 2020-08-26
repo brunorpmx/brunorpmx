@@ -17,16 +17,9 @@ const bruno = {
  lookingHelp: "JavaScript Web Projects",
  ask: "Anything, i love to talk and exchange experiences",
  funnyFact: "I'm initially graduated in Biochemistry",
- hobbies: [VideoGames, PlayBass$Guitar, Books]
+ hobbies: [VideoGames, PlayBass&Guitar, Books]
 }
  ```
-
-- 👨🏽‍💻 I’m currently working on Web Projects (coming soon...😅);
-- 🌱 I’m currently learning <strong>JavaScript Stack</strong>; 
-- 👯 I’m looking to collaborate on projects that i can be useful 😁;
-- 🤔 I’m looking for help on <strong>JavaScript on Web Development</strong>;
-- 💬 Ask me about anything, I love to talk and exchange experiences;
-- ⚡️ Fun-Fact: I am initially graduated in <strong>Biochemistry</strong> 🧑🏽‍🔬;
 
 **Languages and tools of interest:**
 
