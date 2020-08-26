@@ -5,7 +5,7 @@
 
 &nbsp;
 
-**More about me...<img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="50">**
+**More about me . . . <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="20">**
 
 <img width="50%" align="right" alt="Github" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" />
 
